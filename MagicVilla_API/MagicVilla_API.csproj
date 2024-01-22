@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <None Remove="desktop.ini" />
+    <None Remove="Repository\desktop.ini" />
+    <None Remove="Repository\IRepository\desktop.ini" />
   </ItemGroup>
 
   <ItemGroup>
